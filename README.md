@@ -46,22 +46,22 @@ The result is a **semantics-aware matching pipeline** that maintains compatibili
 ---
 
 <p align="center">
-  <img src="static/horizontal.png" alt="KSI overview" width="900"><br>
+  <img src="https://github.com/LCAS/KSI/blob/site/static/horizontal.png" alt="KSI overview" width="900"><br>
   <em>Figure 1. Overview of the KSI pipeline integrating semantic embeddings into keypoint descriptors.</em>
 </p>
 
 <p align="center">
-  <img src="static/cm.png" alt="Semantic matching results" width="700"><br>
+  <img src="https://github.com/LCAS/KSI/blob/site/static/cm.png" alt="Semantic matching results" width="700"><br>
   <em>Figure 2. KSI enhances descriptor distinctiveness in repetitive vineyard scenes across seasons.</em>
 </p>
 
 <p align="center">
-  <img src="static/vineyard.png" alt="Vineyard dataset map" width="900"><br>
+  <img src="https://github.com/LCAS/KSI/blob/site/static/vineyard.png" alt="Vineyard dataset map" width="900"><br>
   <em>Figure 3. Vineyard loop used for evaluation — trunks and buildings provide stable semantics year-round.</em>
 </p>
 
 <p align="center">
-  <img src="static/forest.png" alt="Woodland generalisation" width="700"><br>
+  <img src="https://github.com/LCAS/KSI/blob/site/static/forest.png" alt="Woodland generalisation" width="700"><br>
   <em>Figure 4. KSI generalises to woodland environments, improving tree-based feature matching.</em>
 </p>
 
