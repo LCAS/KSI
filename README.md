@@ -1,21 +1,15 @@
-<h1 align="center">
-  Keypoint Semantic Integration for Improved Feature Matching in Outdoor Agricultural Environments
-</h1>
+# <p align="center">Keypoint Semantic Integration for Improved Feature Matching in Outdoor Agricultural Environments</p>
 
-<h3 align="center">
-  Rajitha de Silva · Jacob Swindell · Jonathan Cox · Marija Popović · Cesar Cadena · Cyrill Stachniss · Riccardo Polvara
-</h3>
+### <p align="center">Rajitha de Silva · Jacob Swindell · Jonathan Cox · Marija Popović · Cesar Cadena · Cyrill Stachniss · Riccardo Polvara</p>
 
-<h4 align="center">
-  IEEE Robotics and Automation Letters (RA-L)
-</h4>
+#### <p align="center">IEEE Robotics and Automation Letters (RA-L)</p>
 
-<h4 align="center">
-  <a href="https://arxiv.org/pdf/2503.08843" target="_blank">📄 Paper</a> &nbsp; | &nbsp;
-  <a href="https://lcas.github.io/KSI/" target="_blank">🌐 Website</a> &nbsp; | &nbsp;
-  <a href="https://universe.roboflow.com/gaia-hse8w/semanticblt/dataset/1" target="_blank">🌱 Dataset</a> &nbsp; | &nbsp;
-  <a href="https://universe.roboflow.com/gaia-hse8w/semanticblt/model/1" target="_blank">🧠 Model</a>
-</h4>
+<p align="center">
+<a href="https://arxiv.org/pdf/2503.08843" target="_blank">📄 Paper</a> &nbsp; | &nbsp;
+<a href="https://lcas.github.io/KSI/" target="_blank">🌐 Website</a> &nbsp; | &nbsp;
+<a href="https://universe.roboflow.com/gaia-hse8w/semanticblt/dataset/1" target="_blank">🌱 Dataset</a> &nbsp; | &nbsp;
+<a href="https://universe.roboflow.com/gaia-hse8w/semanticblt/model/1" target="_blank">🧠 Model</a>
+</p>
 
 ---
 
@@ -87,3 +81,4 @@ If you use this work, please cite:
   year={2025}
 }
 ```
+> **Note:** This work extends the original [**SuperGlue Pretrained Network**](https://github.com/magicleap/SuperGluePretrainedNetwork) codebase by Magic Leap, introducing a semantic integration module that augments descriptor matching with contextual embeddings.
