@@ -6,6 +6,7 @@
 
 <p align="center">
 <a href="https://arxiv.org/pdf/2503.08843" target="_blank">📄 Paper</a> &nbsp; | &nbsp;
+<a href="https://www.youtube.com/watch?v=eK3XKpRakTk" target="_blank">🎬 Video</a> &nbsp; | &nbsp;
 <a href="https://lcas.github.io/KSI/" target="_blank">🌐 Website</a> &nbsp; | &nbsp;
 <a href="https://universe.roboflow.com/gaia-hse8w/semanticblt/dataset/1" target="_blank">🌱 Dataset</a> &nbsp; | &nbsp;
 <a href="https://universe.roboflow.com/gaia-hse8w/semanticblt/model/1" target="_blank">🧠 Model</a>
