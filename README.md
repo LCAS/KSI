@@ -10,6 +10,7 @@
   IEEE Robotics and Automation Letters (RA-L)
 </h4>
 
+<h4 align="center">
   <a href="https://arxiv.org/pdf/2503.08843" target="_blank">📄 Paper</a> &nbsp; | &nbsp;
   <a href="https://lcas.github.io/KSI/" target="_blank">🌐 Website</a> &nbsp; | &nbsp;
   <a href="https://universe.roboflow.com/gaia-hse8w/semanticblt/dataset/1" target="_blank">🌱 Dataset</a> &nbsp; | &nbsp;
