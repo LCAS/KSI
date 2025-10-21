@@ -13,8 +13,10 @@
 <h4 align="center">
   <a href="https://arxiv.org/pdf/2503.08843" target="_blank">📄 Paper</a> &nbsp; | &nbsp;
   <a href="https://github.com/LCAS/KSI" target="_blank">💻 Code</a> &nbsp; | &nbsp;
-  <a href="https://universe.roboflow.com/gaia-hse8w/semanticblt/dataset/1" target="_blank">🌱 Dataset</a>
+  <a href="https://universe.roboflow.com/gaia-hse8w/semanticblt/dataset/1" target="_blank">🌱 Dataset</a> &nbsp; | &nbsp;
+  <a href="https://universe.roboflow.com/gaia-hse8w/semanticblt/model/1" target="_blank">🧠 Model</a>
 </h4>
+
 
 ---
 
