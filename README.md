@@ -70,7 +70,7 @@ The result is a **semantics-aware matching pipeline** that maintains compatibili
 ## Dataset: **SemanticBLT**
 
 We introduce [**Semantic Bacchus Long-Term (SemanticBLT)**](https://universe.roboflow.com/gaia-hse8w/semanticblt/dataset/1) — a multi-season dataset of vineyard images with **panoptic segmentation** for six classes (buildings, pipes, poles, robots, trunks, vehicles).  
-It extends the [Bacchus Long-Term (BLT)](https://doi.org/10.1002/rob.22209) dataset with semantic annotations, enabling perception research in repetitive natural scenes.
+It extends the [Bacchus Long-Term (BLT)](https://lcas.lincoln.ac.uk/wp/research/data-sets-software/blt/) dataset with semantic annotations, enabling perception research in repetitive natural scenes.
 
 ---
 
