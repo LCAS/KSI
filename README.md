@@ -75,11 +75,15 @@ It extends the [Bacchus Long-Term (BLT)](https://lcas.lincoln.ac.uk/wp/research/
 If you use this work, please cite:
 
 ```bibtex
-@article{de2025keypoint,
-  title={Keypoint Semantic Integration for Improved Feature Matching in Outdoor Agricultural Environments},
-  author={de Silva, Rajitha and Cox, Jonathan and Popovic, Marija and Cadena, Cesar and Stachniss, Cyrill and Polvara, Riccardo},
-  journal={arXiv preprint arXiv:2503.08843},
-  year={2025}
-}
+@ARTICLE{11230833,
+  author={de Silva, Rajitha and Swindell, Jacob and Cox, Jonathan and Popović, Marija and Cadena, Cesar and Stachniss, Cyrill and Polvara, Riccardo},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Keypoint Semantic Integration for Improved Feature Matching in Outdoor Agricultural Environments}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Semantics;Feature extraction;Visualization;Robots;Accuracy;Robot kinematics;Pipelines;Training;Standards;Shape},
+  doi={10.1109/LRA.2025.3629991}}
 ```
 > **Note:** This work extends the original [**SuperGlue Pretrained Network**](https://github.com/magicleap/SuperGluePretrainedNetwork) codebase by Magic Leap, introducing a semantic integration module that augments descriptor matching with contextual embeddings.
