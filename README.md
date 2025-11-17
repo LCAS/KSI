@@ -75,7 +75,7 @@ It extends the [Bacchus Long-Term (BLT)](https://lcas.lincoln.ac.uk/wp/research/
 If you use this work, please cite:
 
 ```bibtex
-@ARTICLE{11230833,
+@ARTICLE{ksi,
   author={de Silva, Rajitha and Swindell, Jacob and Cox, Jonathan and Popović, Marija and Cadena, Cesar and Stachniss, Cyrill and Polvara, Riccardo},
   journal={IEEE Robotics and Automation Letters}, 
   title={Keypoint Semantic Integration for Improved Feature Matching in Outdoor Agricultural Environments}, 
