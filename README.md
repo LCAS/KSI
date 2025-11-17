@@ -80,10 +80,10 @@ If you use this work, please cite:
   journal={IEEE Robotics and Automation Letters}, 
   title={Keypoint Semantic Integration for Improved Feature Matching in Outdoor Agricultural Environments}, 
   year={2025},
-  volume={},
-  number={},
-  pages={1-8},
-  keywords={Semantics;Feature extraction;Visualization;Robots;Accuracy;Robot kinematics;Pipelines;Training;Standards;Shape},
+  volume={10},
+  number={12},
+  pages={13383-13390},
+  keywords={Semantics;Feature extraction;Visualization;Robots;Accuracy;Robot kinematics;Pipelines;Training;Standards;Shape;Image matching;feature extraction;semantic segmentation;agricultural robots;robotlocalization},
   doi={10.1109/LRA.2025.3629991}}
 ```
 > **Note:** This work extends the original [**SuperGlue Pretrained Network**](https://github.com/magicleap/SuperGluePretrainedNetwork) codebase by Magic Leap, introducing a semantic integration module that augments descriptor matching with contextual embeddings.
