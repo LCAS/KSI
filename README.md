@@ -13,6 +13,7 @@
 <p align="center">
 <a href="https://ieeexplore.ieee.org/document/11230833" target="_blank">📄 Paper</a> | &nbsp;
 <a href="https://arxiv.org/pdf/2503.08843" target="_blank">📝 Preprint</a> &nbsp; | &nbsp;
+<a href="static/poster.pdf" target="_blank">🖼️ Poster</a> &nbsp; | &nbsp;
 <a href="https://www.youtube.com/watch?v=eK3XKpRakTk" target="_blank">🎬 Video</a> &nbsp; | &nbsp;
 <a href="https://github.com/LCAS/KSI" target="_blank">💻 Code</a> &nbsp; | &nbsp;
 <a href="https://universe.roboflow.com/gaia-hse8w/semanticblt/dataset/1" target="_blank">🌱 Dataset</a> &nbsp; | &nbsp;
